@@ -1,3 +1,6 @@
+dev1.2:
+* Student code is finished.
+
 dev1.1:
 * Keep working on the student's code.
 
