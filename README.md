@@ -1,3 +1,7 @@
+dev1.3:
+* Student code wasn't finished. Still adding student notes in the code.
+* Added Lab notes.
+
 dev1.2:
 * Student code is finished.
 
