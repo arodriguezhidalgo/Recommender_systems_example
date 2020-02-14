@@ -1,3 +1,7 @@
+dev1.4:
+* Student code with all the indications to fullfil.
+* Lab notes: conclusions TBD.
+
 dev1.3:
 * Student code wasn't finished. Still adding student notes in the code.
 * Added Lab notes.
