@@ -1,3 +1,6 @@
+dev1.5:
+* Typo in one of the titles.
+
 dev1.4:
 * Student code with all the indications to fullfil.
 * Lab notes: conclusions TBD.
